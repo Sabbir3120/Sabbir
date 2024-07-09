@@ -11,7 +11,7 @@
 /* banner section */
 .banner{
     background-image: url(../assets/Hero-bg.png);
-    height: 652px;
+    height: 806px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -22,7 +22,8 @@
 /* banner-header font(h2) */
 
 .iconimg{
-    margin-top: 30px;
+    /* margin-top: 50px; */
+    padding-top: 42px;
     padding-bottom: 35px;
     text-align: center;
 }
@@ -30,7 +31,7 @@
 .headerfont{
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
-    font-size: 48px;
+    font-size: 56px;
     font-weight: 800;
     line-height: 68px;
     letter-spacing: 0%;
@@ -41,17 +42,40 @@
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
     text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    padding-top: 30px;  
+}
+
+.headerone{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.headerparaone{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
-    letter-spacing: 0%;   
+    letter-spacing: 0%;
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 26px;
+    
 }
-
 /* button edit */
 .btn{
     font-family: Azeret Mono;
     color: rgb(255, 255, 255);
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 600;
     text-align: center;
     padding: 21px 24px;
@@ -60,7 +84,11 @@
 }
 
 .btn-alin{
-    margin-top: 32px;
+    margin-top: 35px;
     text-align: center;
     padding-top: 25px;
+}
+
+.ms{
+    padding: 80px 97px;
 }
