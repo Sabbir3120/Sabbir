@@ -92,3 +92,59 @@
 .ms{
     padding: 80px 97px;
 }
+
+.paddingforcontent{
+    padding: 48px;
+}
+
+.headertwo{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.heading2{
+    width: 550px;
+    height: 140px;
+}
+
+.paratwo{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+    text-align: justify;
+    padding-bottom: 32px;
+}
+
+.btn2{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-align: center;
+    padding: 12px 20px 12px 20px;
+
+
+}
+
+.imgan{
+    position: absolute;
+    width: 259.56px;
+    height: 217.01px;
+    left: 0.36%;
+    right: -0.36%;
+    top: 1.74%;
+    bottom: -1.74%;
+}
